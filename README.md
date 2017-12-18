@@ -5,7 +5,6 @@
 [![License](https://img.shields.io/github/license/GuozhuHe/webspider.svg)](https://github.com/guozhuhe/webspider/blob/master/LICENSE)
 [![Maintainability](https://api.codeclimate.com/v1/badges/0195c3f3572166b54292/maintainability)](https://codeclimate.com/github/GuozhuHe/webspider/maintainability)
 [![Python](https://img.shields.io/badge/python-3-ff69b4.svg)](https://github.com/GuozhuHe/webspider)
-> 如果感觉项目还不错，给个 Star 吧  `_(:з」∠)_`
 
 --|--
 ---- | ----
@@ -13,8 +12,6 @@ Version | 1.0.1
 WebSite | http://www.jobinfo.cc:8000/
 Source |  https://github.com/GuozhuHe/webspider
 Keywords |  `Python3`, `Tornado`, `Celery`, `Spider`, `Lagou`, `Requests`
-
-爬取到的数据分享链接: https://pan.baidu.com/s/1gfIi5gv 密码: `gikp`
 
 ## 关于本系统
 
